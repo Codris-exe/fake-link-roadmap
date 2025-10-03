@@ -1,5 +1,8 @@
 # Fake Link Detector — Interactive Roadmap
 
+<img width="1076" height="889" alt="image" src="https://github.com/user-attachments/assets/32cd6a3d-998b-4590-b184-91c4006c4af2" />
+
+
 An interactive, step-by-step roadmap for building a Fake Link Detector browser extension as a college project. This tool helps you plan, track, and execute all phases of the project—from data collection and ML modeling to extension development, backend APIs, testing, and deployment.
 
 ## ✨ Features
